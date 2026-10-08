@@ -1,77 +1,84 @@
 <div align="center">
 
-# ⚖️ STD Public License (STD-PL)
+# ⚖️ STD Public License (STD-PL-1.0)
 
-### The Unified Open-Source & Educational Licensing Framework
-**Engineered by [TeamStdNetwork](https://github.com/TeamStdNetwork) & [STD-DEEPANSHU](https://github.com/STD-DEEPANSHU)**
+### The Unified Legal Framework for Modern Software & Open Knowledge
+**Maintained by [TeamStdNetwork](https://github.com/TeamStdNetwork)**
 
-[![License: STD](https://img.shields.io/badge/License-STD%20Public%20License-red.svg?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/TeamStdNetwork/STD-PUBLIC-LICENSE?style=for-the-badge&logo=github&color=gold)](https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE/stargazers)
-[![Status](https://img.shields.io/badge/Status-Active%20Standard-brightgreen.svg?style=for-the-badge)](#)
+[![License: STD-PL-1.0](https://img.shields.io/badge/License-STD--PL--1.0-blue.svg?style=for-the-badge)](LICENSE)
+[![SPDX Specification](https://img.shields.io/badge/SPDX-STD--PL--1.0-orange.svg?style=for-the-badge)](https://spdx.org)
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg?style=for-the-badge)](#)
+[![Standard](https://img.shields.io/badge/Standard-Production%20Ready-purple.svg?style=for-the-badge)](#)
 
 <br/>
 
-*A modern, comprehensive license bridging high-freedom source code execution with bulletproof patent defense, library linking flexibility, and anti-theft educational curriculum protection.*
+*An international public licensing standard engineering a frictionless harmony between unrestricted software execution, enterprise modularity, patent defense, and open educational reciprocity.*
 
 ---
 
-[Full License Text](LICENSE) •
-[Quick Summary](#-key-provisions-at-a-glance) •
-[How to Apply](#-how-to-apply-to-your-project) •
-[License Comparison](#-license-comparison) •
-[FAQ](#-frequently-asked-questions)
+[Full Legal Text](LICENSE) • [Core Pillars](#-core-architectural-pillars) • [Rights & Obligations](#-rights-and-obligations) • [How to Apply](#-how-to-apply-to-your-project) • [FAQ](#-frequently-asked-questions)
 
 </div>
 
 ---
 
-## 📌 Overview
+## 🏛️ Core Architectural Pillars
 
-The **STD Public License** is designed to solve a fundamental dilemma in modern software engineering and technical education:
-- **Permissive licenses** (MIT/BSD) allow complete commercial code usage, but offer zero protection against bad actors who scrape open-source tutorials, roadmaps, and books to sell them on paid platforms (Udemy, paywalled sites).
-- **Strict Copyleft licenses** (GPL/AGPL) prevent proprietary commercial applications from linking to libraries, causing high friction for enterprise adoption.
+The **STD Public License (STD-PL-1.0)** is built upon four foundational pillars designed for modern multi-disciplinary repositories:
 
-The **STD Public License** provides an all-in-one balanced framework:
-1. **Developers & Enterprises** can run, build, and dynamically link with the software freely.
-2. **Authors & Educators** retain 100% intellectual property protection against course theft, unauthorized book monetization, and patent litigation.
+┌────────────────────────────────────────────────────────────────────────┐ │ STD PUBLIC LICENSE v1.0 │ ├────────────────────┬────────────────────┬──────────────────────────────┤ │ 1. SOFTWARE CODE │ 2. LIBRARIES & API │ 3. EDUCATIONAL ASSETS │ │ Permissive use, │ Clean boundary: │ Reciprocal open access: │ │ modification, and │ dynamic imports do │ curricula and roadmaps │ │ distribution. │ not infect apps. │ remain freely accessible. │ ├────────────────────┴────────────────────┴──────────────────────────────┤ │ 4. PATENT DEFENSE & RETALIATION │ │ Automatic defensive termination against patent litigation. │ └────────────────────────────────────────────────────────────────────────┘
+
+
+### I. Developer Autonomy
+Developers and businesses are granted perpetual, worldwide rights to run, adapt, customize, and distribute software implementations in both proprietary and commercial environments without royalty friction.
+
+### II. Modular Library Boundary
+Clean separation between software packages and external consumers. Independent applications that link to or import the Work remain governed under their own independent terms. Only direct modifications to the core library itself require source disclosure.
+
+### III. Open Knowledge Preservation
+Educational curricula, technical roadmaps, learning guides, and documentation are protected by a reciprocal Share-Alike principle. Any derivative training materials must remain unencumbered, public, and open to the global developer community.
+
+### IV. Patent Peace
+Contributors grant reciprocal patent licenses for their contributions. In the event of patent litigation initiated against contributors regarding the Work, all granted patent rights are defensively terminated.
 
 ---
 
-## ⚡ Key Provisions at a Glance
+## 📋 Rights and Obligations
 
-| Category | Provision | Details |
-| :--- | :--- | :--- |
-| **Permissions** | 🟢 Commercial Use | You may use the software in commercial products and workflows. |
-| | 🟢 Modification | You may modify, adapt, and build upon the source code. |
-| | 🟢 Distribution | You may distribute original or modified copies. |
-| | 🟢 Patent Grant | Perpetual, worldwide patent license granted to all users. |
-| | 🟢 Library Linking | Dynamic linking and API imports do NOT infect calling applications. |
-| **Conditions** | 🟡 Mandatory Notice | All copies must retain copyright, author credits, and this license text. |
-| | 🟡 Source Disclosure | Direct modifications to the work's source files must remain open. |
-| | 🟡 SaaS Disclosure | Hosting modified versions as a public cloud service requires providing source. |
-| | 🔴 Anti-Course Paywall | Educational guides and roadmaps **cannot** be sold as paid courses without authorization. |
-| **Limitations** | ❌ No Trademark Grant | Does not grant rights to use TeamStdNetwork or STD trademarks. |
-| | ❌ No Liability | The authors provide the software "AS IS" without warranty. |
-| | ❌ Patent Retaliation | Patent lawsuits against the authors immediately terminate the license. |
+### 🟢 Permissions Granted
+* **Commercial Deployment:** Run and deploy software in private, public, or commercial operations.
+* **Modification:** Create adaptations, patches, bugfixes, and derived works.
+* **Distribution:** Freely distribute binary builds, packages, and source code.
+* **Modular Integration:** Dynamically link, import, and call APIs without license propagation.
+* **Patent Licensing:** Perpetual, royalty-free patent immunity for practicing the Work.
+
+### 🟡 Conditions & Responsibilities
+* **Attribution Notice:** Preserve original copyright declarations and author notices.
+* **License Delivery:** Provide a copy of this License with all distributed copies.
+* **Educational Reciprocity:** Derivatives of educational assets must remain distributed under STD-PL-1.0.
+* **Unrestricted Source Access:** Educational content must not be enclosed within exclusive digital DRM or technical barriers.
+* **Library Modifications:** Modifications to the core library files must be made available in source form.
+
+### 🔴 Legal Limitations
+* **No Trademark Rights:** Does not grant permission to use names, logos, or marks of the Licensors.
+* **No Warranty:** The Work is provided strictly "AS IS" without liability or implied warranties.
+* **Patent Retaliation:** Initiating patent lawsuits against contributors terminates all patent grants.
 
 ---
 
 ## 🚀 How to Apply to Your Project
 
-### Step 1: Add the License File
-Create a file named `LICENSE` in the root of your repository and copy the text from [**LICENSE**](LICENSE).
+Applying the STD Public License to your repository takes less than two minutes:
 
-### Step 2: Add the Header Notice
-Place this header at the top of your primary source files (`.py`, `.go`, `.kt`, `.js`, etc.):
+### 1. Place the LICENSE File
+Add a file named `LICENSE` in the root of your project directory containing the [official license text](LICENSE).
+
+### 2. Include Header in Primary Source Files
+Include the standardized notice at the beginning of your core files:
 
 ```text
-Copyright (c) 2026 [YOUR NAME OR ORGANIZATION]
-Official License: https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
+Copyright (c) [YEAR] [YOUR NAME OR ORGANIZATION]
+Licensed under the STD Public License v1.0 (STD-PL-1.0).
+Official Specification: https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
 
-Licensed under the STD Public License (the "License"); you may not use 
-this file except in compliance with the License. You may obtain a copy of 
-the License at: https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
-
-Unless required by applicable law or agreed to in writing, software distributed 
-under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
-CONDITIONS OF ANY KIND, either express or implied.
+[![License: STD-PL-1.0](https://img.shields.io/badge/License-STD--PL--1.0-blue.svg)](LICENSE)
