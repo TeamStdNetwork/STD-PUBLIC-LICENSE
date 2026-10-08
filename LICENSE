@@ -1,169 +1,139 @@
 ================================================================================
-                           STD PUBLIC LICENSE
-            Copyright (c) 2026 TeamStdNetwork (stddeepanshu@gmail.com)
-            Official URL: https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
+                         STD PUBLIC LICENSE
+                            Version 1.0
+          Identifier: STD-PL-1.0 | https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
 ================================================================================
 
-                                 PREAMBLE
+                                  PREAMBLE
 
-The STD Public License is an international software, library, and educational 
-content license. Its purpose is to grant broad permissions for the execution, 
-modification, and integration of computer software and libraries, while 
-simultaneously safeguarding patent rights, requiring transparent disclosure of 
-modified source code, preventing commercial exploitation of educational 
-works, and protecting the intellectual attribution of the authors.
+The STD Public License (STD-PL) provides a balanced framework for modern software 
+engineering, modular libraries, and open educational content. It grants broad, 
+unrestricted permissions to execute, inspect, adapt, and integrate computer 
+software, while establishing reciprocal safeguards to preserve the open 
+accessibility of educational resources, protecting patent rights, and ensuring 
+proper author attribution.
 
 ================================================================================
-                       TERMS AND CONDITIONS FOR USE,
-                 REPRODUCTION, MODIFICATION, AND DISTRIBUTION
+                           TERMS AND CONDITIONS
 ================================================================================
 
 1. DEFINITIONS
 
-   "Licensor" means the copyright owner or entity authorized by the copyright 
-   owner that grants rights under this License.
+   "License" refers to the terms and conditions set forth in this document.
 
-   "The Work" means the software programs, libraries, source code, scripts, 
-   documentation, educational roadmaps, tutorials, datasets, and digital assets 
-   made available under this License.
+   "Licensor" refers to the copyright owner or authorized entity releasing 
+   the Work under this License.
 
-   "Source Form" means the preferred format for making modifications, including 
-   software source code, documentation files, and build scripts.
+   "The Work" refers to the software programs, libraries, scripts, technical 
+   curricula, roadmaps, tutorials, or documentation released under this License.
 
-   "Derivative Work" means any translation, adaptation, or modification based 
-   upon the Work.
+   "Source Materials" refers to the preferred format for modifying the Work, 
+   including source code, markdown or documentation files, and build configurations.
 
-   "Educational Material" means any written curricula, instructional guides, 
-   roadmaps, cheatsheets, or explanatory articles distributed within the Work.
+   "Derivative Work" refers to any translation, modification, or adaptation 
+   based directly upon the Work.
 
+   "Educational Assets" refers to written curricula, learning roadmaps, tutorials, 
+   or instructional guides forming part of the Work.
 
-2. GRANT OF COPYRIGHT LICENSE
-
-   Subject to the terms and conditions of this License, each Licensor hereby 
-   grants to You a worldwide, royalty-free, non-exclusive, perpetual copyright 
-   license to:
-     a. Reproduce, prepare Derivative Works of, publicly display, and run the 
-        Work in Source Form or Object Form.
-     b. Incorporate individual algorithms, functions, and code examples into 
-        independent software systems.
+   "You" (or "Your") refers to an individual or legal entity exercising rights 
+   granted by this License.
 
 
-3. GRANT OF PATENT LICENSE & RETALIATION DEFENSE
+2. GRANT OF RIGHTS (SOFTWARE & CODE)
 
-   a. Patent Grant: Each Licensor grants to You a perpetual, worldwide, 
-      non-exclusive, no-charge, royalty-free patent license to make, have made, 
-      use, offer to sell, sell, and import the Work.
-   b. Patent Retaliation: If You institute patent litigation against any Licensor 
-      or contributor (including a cross-claim or counterclaim in a lawsuit) 
-      alleging that the Work constitutes direct or contributory patent 
-      infringement, then any patent licenses granted to You under this License 
-      for that Work shall terminate as of the date such litigation is filed.
+   Subject to the provisions of this License, the Licensor grants You a worldwide, 
+   royalty-free, non-exclusive, perpetual license to:
+     a. Run, execute, reproduce, and prepare Derivative Works of the software.
+     b. Incorporate code snippets, algorithms, and functions into independent projects.
+     c. Distribute original or modified versions in Source Materials or compiled form.
 
 
-4. LIBRARY & DYNAMIC LINKING EXCEPTION
+3. MODULAR INTEGRATION & LIBRARY BOUNDARY
 
-   If the Work is designed as a software library, package, or application 
-   programming interface (API):
-     a. External programs that merely compile against, dynamically link with, 
-        or import the interfaces of the Work do not become Derivative Works 
-        under this License and may be distributed under licensing terms of 
-        your choice.
-     b. Direct modifications, revisions, or patches made to the files of the 
-        Work itself must remain governed by this License and be made publicly 
-        available in Source Form upon distribution.
+   If the Work functions as a reusable software package, library, or API:
+     a. Independent programs that merely import, dynamically link with, or call 
+        interfaces of the Work are NOT deemed Derivative Works and may be 
+        distributed under terms of Your choosing.
+     b. Direct modifications or revisions made to the core files of the Work 
+        must remain governed by this License and released in Source Materials form.
 
 
-5. SOURCE CODE DISCLOSURE & NETWORK DEPLOYMENT
+4. PATENT LICENSE & DEFENSE MECHANISM
 
-   If You distribute a Derivative Work, or deploy a modified version of the 
-   Work as an interactive network service (SaaS or Cloud API) accessible to 
-   third parties:
-     a. You must provide prominent instructions and access for users to obtain 
-        the complete Source Form of your modifications without fee.
-     b. You must cause any modified files to carry prominent notices stating 
-        that you changed the files and the date of modification.
-
-
-6. EDUCATIONAL CONTENT INTEGRITY & COMMERCIAL RESTRICTION
-
-   With respect to all Educational Material contained within the Work:
-     a. Free Educational Access: Any individual, educational institution, or 
-        study group may freely read, practice, and share the Educational 
-        Material without payment.
-     b. Commercial Course Paywall Prohibition: You may NOT copy, repackage, 
-        or redistribute the Educational Material as part of a paid commercial 
-        training course, subscription-gated digital platform, or paid commercial 
-        book without prior written authorization from the Licensor.
-     c. Derivative Educational Works: Any translated or adapted educational 
-        guides must be released under this exact License with attribution.
+   Each contributor grants You a perpetual, worldwide, non-exclusive, royalty-free 
+   patent license to make, have made, use, sell, and import the Work. 
+   
+   If You initiate patent litigation against any Licensor or contributor alleging 
+   that the Work infringes Your patent claims, all patent rights granted to You 
+   under this License for this Work shall immediately terminate.
 
 
-7. MANDATORY ATTRIBUTION & PRESERVATION OF NOTICES
+5. RECIPROCAL INTEGRITY OF EDUCATIONAL ASSETS
 
-   You may reproduce and distribute copies of the Work or Derivative Works 
-   in any medium, provided that You satisfy the following conditions:
-     a. You must give all recipients a copy of this License.
-     b. You must retain all copyright, patent, and attribution notices from 
-        the Source Form of the Work.
-     c. You must prominently include credit to the original author:
-        "Copyright (c) 2026 TeamStdNetwork (https://github.com/TeamStdNetwork)".
-
-
-8. TRADEMARK RESTRICTION
-
-   This License does not grant permission to use the trade names, trademarks, 
-   service marks, or product names of the Licensor, STD-DEEPANSHU, or 
-   TeamStdNetwork, except as required for reasonable and customary use in 
-   describing the origin of the Work and reproducing the content of this License.
+   To preserve open community access and prevent the enclosure of learning materials:
+     a. Any redistribution, adaptation, or derivative version of Educational Assets 
+        must remain distributed under this exact License.
+     b. You may not place technical, digital-rights-management (DRM), or contractual 
+        restrictions on Educational Assets that prohibit recipients from inspecting, 
+        exercising, or sharing the materials under the terms of this License.
+     c. Whenever Educational Assets are hosted, published, or transmitted, full and 
+        unrestricted access to the underlying Source Materials must be provided to 
+        recipients without artificial obstruction.
 
 
-9. DISCLAIMER OF WARRANTY
+6. ATTRIBUTION & NOTICES
 
-   UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, THE WORK IS 
-   PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, 
-   EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES 
-   OR CONDITIONS OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, OR FITNESS FOR 
-   A PARTICULAR PURPOSE. YOU ARE SOLELY RESPONSIBLE FOR DETERMINING THE 
-   APPROPRIATENESS OF USING OR REDISTRIBUTING THE WORK.
+   You may distribute copies of the Work or its Derivative Works provided that You:
+     a. Provide every recipient with a copy of this License.
+     b. Preserve all existing copyright, attribution, and disclaimer notices 
+        originating from the Work.
+     c. Retain clear reference identifying the original author or Licensor.
 
 
-10. LIMITATION OF LIABILITY
+7. TRADEMARK EXCLUSION
 
-    IN NO EVENT AND UNDER NO LEGAL THEORY, WHETHER IN TORT (INCLUDING NEGLIGENCE), 
-    CONTRACT, OR OTHERWISE, SHALL ANY LICENSOR OR CONTRIBUTOR BE LIABLE TO YOU 
-    FOR DAMAGES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR 
-    CONSEQUENTIAL DAMAGES OF ANY CHARACTER ARISING AS A RESULT OF THIS LICENSE 
-    OR OUT OF THE USE OR INABILITY TO USE THE WORK.
+   This License grants no rights to use the trademarks, logos, trade names, or 
+   service marks of the Licensor, except as reasonably required to describe 
+   the historical origin of the Work and display required copyright notices.
+
+
+8. COMPLIANCE & TERMINATION GRACE PERIOD
+
+   Your rights under this License terminate automatically upon any material breach. 
+   However, if You cure the non-compliance within thirty (30) days of receiving 
+   written notification, Your rights shall be reinstated prospectively.
+
+
+9. SEVERABILITY
+
+   If any provision of this License is found invalid or unenforceable under applicable 
+   law, that finding shall not affect the validity or enforceability of the 
+   remaining provisions, which shall remain in full force and effect.
+
+
+10. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+
+   THE WORK IS PROVIDED ON AN "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF 
+   ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF 
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. 
+
+   IN NO EVENT SHALL ANY LICENSOR OR CONTRIBUTOR BE LIABLE FOR ANY CLAIM, DAMAGES, 
+   OR OTHER LIABILITY ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR 
+   INABILITY TO USE THE WORK.
 
 ================================================================================
-                                   APPENDIX
-               HOW TO APPLY THIS LICENSE TO YOUR REPOSITORY
+                                  APPENDIX
+                 HOW TO APPLY THIS LICENSE TO YOUR PROJECT
 ================================================================================
 
-To apply the STD Public License to your software or repository:
+1. Place this full text in a file named `LICENSE` in the root of your repository.
 
-1. Place a file named `LICENSE` in the root of your project containing 
-   this full text.
-
-2. Attach this standard header notice at the top of each source file:
+2. Include this header notice at the beginning of each relevant source file:
 
 --------------------------------------------------------------------------------
-Copyright (c) [YEAR] [YOUR NAME OR ORGANIZATION]
+Copyright (c) [YEAR] [COPYRIGHT HOLDER NAME]
+Licensed under the STD Public License v1.0 (STD-PL-1.0).
 Official License: https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
-
-Licensed under the STD Public License (the "License"); you may not use 
-this file except in compliance with the License. You may obtain a copy of 
-the License at: https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
-
-Unless required by applicable law or agreed to in writing, software distributed 
-under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR 
-CONDITIONS OF ANY KIND, either express or implied.
 --------------------------------------------------------------------------------
-
-3. Add the license badge in your README.md:
-
-[![License: STD](https://img.shields.io/badge/License-STD%20Public%20License-red.svg)](LICENSE)
-
-================================================================================
-                         END OF STD PUBLIC LICENSE
 ================================================================================
