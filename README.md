@@ -80,5 +80,3 @@ Include the standardized notice at the beginning of your core files:
 Copyright (c) [YEAR] [YOUR NAME OR ORGANIZATION]
 Licensed under the STD Public License v1.0 (STD-PL-1.0).
 Official Specification: https://github.com/TeamStdNetwork/STD-PUBLIC-LICENSE
-
-[![License: STD-PL-1.0](https://img.shields.io/badge/License-STD--PL--1.0-blue.svg)](LICENSE)
